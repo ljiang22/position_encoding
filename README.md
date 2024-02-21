@@ -6,7 +6,7 @@
 * The package required in this code is included in the requirement.txt. 
 
 ## Introduction
-The goal of this work is to design a learnable positional encoding method using Pytorch.
+The goal of this work is to design a learnable positional encoding code using Pytorch.
 
 ## Input dataset
 The input dataset is a dummy dataset generated using Python code.
