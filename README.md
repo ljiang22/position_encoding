@@ -1,7 +1,5 @@
 # Positional encoding - Lian Jiang, 2024
 
-## Table of Contents
-
 ## System requirements
 * The current code only supports the Windows system. 
 * The Python version used in this code is 64-bit Python3.12.2.
