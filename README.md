@@ -1,8 +1,6 @@
 # Positional encoding - Lian Jiang, 2024
 Design a learnable positional encoding method using Pytorch
 
-## Table of Contents
-
 ## System requirements
 * The current code only supports the Windows system. 
 * The Python version used in this code is 64-bit Python3.12.2.
